@@ -53,7 +53,7 @@ const HomePage = () => (
     {/* Hero Section */}
     <div className="relative h-screen">
       <img
-        src="/api/placeholder/1920/1080"
+        src="src\images\pizza.jpg"
         alt="Pizza Hero"
         className="w-full h-full object-cover"
       />
@@ -103,7 +103,7 @@ const AboutPage = () => (
       <h2 className="text-3xl font-bold mb-8 text-center">Nossa História</h2>
       <div className="grid md:grid-cols-2 gap-8 items-center">
         <img
-          src="/api/placeholder/600/400"
+          src="src\images\pizza.jpg"
           alt="Nossa História"
           className="rounded-lg shadow-lg"
         />
