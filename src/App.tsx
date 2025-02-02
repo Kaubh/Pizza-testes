@@ -61,7 +61,7 @@ const HomePage = () => (
         <div className="text-center text-white">
           <h1 className="text-5xl font-bold mb-4">Bem-vindo à Pizzaria Delícia</h1>
           <p className="text-xl mb-8">As melhores pizzas artesanais da cidade</p>
-          <button className="bg-green-500 text-white px-8 py-3 rounded-lg text-lg hover:bg-green-600">
+          <button className="bg-green-400 text-white px-8 py-3 rounded-lg text-lg hover:bg-green-600">
             Ver Cardápio
           </button>
         </div>
